@@ -1,0 +1,13 @@
+body{
+    position: relative;
+    width: 100%;
+    background-color: #000;
+    background: url(https://coderkube.com/wp-content/uploads/2017/06/top-contact-us-banner.jpg) no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: scroll;
+    padding-top: 90px;
+    padding-bottom: 30px;
+}
